@@ -1,0 +1,48 @@
+
+[
+{
+    "employeeNumber": "A12345",
+    "firstName": "Sam",
+    "lastName": "Parker",
+    "department": "Media",
+    "image":"icon/pic1.png"
+
+},
+{
+    "employeeNumber": "A54321",
+    "firstName": "Pam",
+    "lastName": "Xi",
+    "department": "Bio",
+    "image":"icon/pic2.png"
+
+},
+{
+    "employeeNumber": "B12345",
+    "firstName": "Kitty",
+    "lastName": "Daisy",
+    "department": "Media"
+},
+{
+    "employeeNumber": "B54321",
+    "firstName": "Rose",
+    "lastName": "Maddy",
+    "department": "Media"
+},
+{
+    "employeeNumber": "A12345",
+    "firstName": "Daisy",
+    "lastName": "Danny",
+    "department": "Bio"
+},
+{
+    "employeeNumber": "C12345",
+    "firstName": "Jashua",
+    "lastName": "Jain",
+    "department": "Bio"
+}
+
+
+
+
+
+]
