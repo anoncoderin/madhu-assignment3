@@ -1,0 +1,26 @@
+.header{
+    color: rgb(42, 4, 129);
+    font-size: 25px;
+}
+div.header::before{
+ content: "--"
+}
+
+div.header::after{
+    content: "--"
+   }
+
+
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding: 6rem;
+    min-height: 100vh;
+  }
+
+  .dpt{
+    color: rgb(42, 4, 129) ;
+    font-size: 20px;
+  }

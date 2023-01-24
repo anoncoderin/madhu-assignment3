@@ -1,0 +1,32 @@
+
+
+{
+    "employeeNumber": "A12345",
+    "firstName": "Sam",
+    "lastName": "Parker",
+    "department": "Media"
+},
+{
+    "employeeNumber": "A54321",
+    "firstName": "Pam",
+    "lastName": "Xi",
+    "department": "Bio"
+},
+{
+    "employeeNumber": "B12345",
+    "firstName": "Kitty",
+    "lastName": "Daisy",
+    "department": "Media"
+},
+{
+    "employeeNumber": "B54321",
+    "firstName": "Rose",
+    "lastName": "Maddy",
+    "department": "Media"
+},
+{
+    "employeeNumber": "A12345",
+    "firstName": "Daisy",
+    "lastName": "Danny",
+    "department": "Chemistry"
+}

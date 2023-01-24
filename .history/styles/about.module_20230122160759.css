@@ -1,0 +1,43 @@
+.header{
+
+        padding: 39px;
+    background-color: rgb(201, 200, 200);
+    color: rgb(42, 4, 129);
+    padding-left: 311px;
+    font-size: 45px;
+    margin: 45;
+    font-family: arial black;
+
+}
+
+
+
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding: 6rem;
+    min-height: 100vh;
+  }
+
+  .dpt{
+    color: rgb(42, 4, 129) ;
+    font-size: 20px;
+    
+  }
+
+  .record{
+    padding-left: 200px;
+    height: 25px;
+    width: 500px;
+    background-color: #bebeef;
+    border-style:solid; 
+    border-color:#657d9f;
+  }
+
+  .row{
+    display: flex;
+    flex-direction: row;
+    justify-content: ;
+  }

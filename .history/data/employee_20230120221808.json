@@ -1,0 +1,17 @@
+{
+
+"employeeNumber":"A12345",
+"firstName":  "Sam",
+"lastName":"Parker",
+"department":"Chemistry" 
+
+},
+
+{
+    "employeeNumber":"A54321",
+"firstName":  "Pam",
+"lastName":"Xi",
+"department":"Bio" 
+},
+
+

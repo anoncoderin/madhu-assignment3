@@ -1,0 +1,16 @@
+export default function Employee(
+    {
+        degree="none",
+        color="purple",
+        font=10,
+        image='icon/person.png'
+    }
+){
+    return(
+        <div  style={{backgroundcolor:color, fontSize:font }}>
+           <img src={'icon/person.png'} width="50px"></img>  
+           <p> {degree}
+            {degree}</p>
+        </div>
+    )
+}
